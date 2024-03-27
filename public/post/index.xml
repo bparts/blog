@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Блог об исламе</title>
+    <link>blogtest2222.github.io/post/</link>
+    <description>Recent content in Posts on Блог об исламе</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 27 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="blogtest2222.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Религия</title>
+      <link>blogtest2222.github.io/post/religia/</link>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>blogtest2222.github.io/post/religia/</guid>
+      <description>Понятие религии это достаточно сложное и разнообразное и во многом субъективное понятие. Тем не менее, мы постараемся сгруппировать существующие взгляды именно в таком разрезе, который будет более подходящим для наших целей.
+В общем, взгляды на религию как понятие можно разделить на внутренние и внешние, с точки зрения человека, который эти взгляды выражает. В качестве аналогии, для понимания, мы можем вспомнить о том, что у многих существующих народов присутствует как собственное название, так и экзоним - имя, которым данный народ называют другие народы.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,4 +1,4 @@
-baseURL = "localhost"
+baseURL = "blogtest2222.github.io"
 
 author = "Abu Abdullah"
 paginate = 3
