@@ -1,5 +1,5 @@
 +++
-author = "lee.so"
+author = "Abu Adbullah"
 title = "Религия"
 date = "2024-03-27"
 description = "О понятии - религия"
